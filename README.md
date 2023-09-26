@@ -1,16 +1,16 @@
 # untitled
 
-A new Flutter project.
+A app to store all your imp docs all at one place .
+
+## history 
+
+This app was started as a project for participation in buildspace s4. It wass a 6 week program . But due to time conviniece , lack of proper knowledge and help , I couldn't proceed further.
+
+## working flow
+![image](https://github.com/heysagnik/untitled/assets/70798495/63b9d5ce-cb37-472f-b837-e88b6494fc5d)
+
+
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+this project is based on Flutter
